@@ -1,3 +1,9 @@
-# lab-4-zealotrahl
-lab-4-zealotrahl created by GitHub Classroom
-Finished 1-4 labs, still don't know why filesize is not working
+Lab 4: Create your Music List
+
+You need to use given repo to create your music list.
+
+Student Details
+
+Student ID: u1710067    
+Student Name: Shokhrukhkhon Khodjaev
+Section Number: 001
